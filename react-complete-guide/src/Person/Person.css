@@ -6,3 +6,10 @@
     padding: 16px;
     text-align: center;
 }
+
+/* will be applied to screen size more than 500px; */
+/* @media (min-width: 500px) {
+    .Person {
+        width: 450px;
+    }
+} */
