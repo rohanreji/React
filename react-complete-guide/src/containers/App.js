@@ -2,7 +2,7 @@ import React, { PureComponent } from 'react';
 import styles from './App.css';
 import Persons from '../components/Persons/Persons';
 import Cockpit from '../components/Cockpit/Cockpit';
-import Aux from '../hoc/Aux';
+import Aux from '../hoc/Au';
 import withClass from '../hoc/withClass';
 
 // import Radium, {StyleRoot} from 'radium';

@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './Cockpit.css'
-import Aux from "../../hoc/Aux";
+import Aux from "../../hoc/Au";
 
 const Cockpit = (props) => {
     const classes = [];
